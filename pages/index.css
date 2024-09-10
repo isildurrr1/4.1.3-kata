@@ -1,0 +1,11 @@
+/* reset styles */
+@import url(../vendor/normalize.css);
+/* add fonts */
+@import url(../vendor/fonts/ttlakes.css);
+/* pages */
+@import url('../blocks/page/page.css');
+/* menu */
+@import url('../blocks/burger/burger.css');
+@import url('../blocks/burger/__header/burger__header.css');
+@import url('../blocks/burger/__icon/burger__icon.css');
+@import url('../blocks/burger/__logo/burger__logo.css');
