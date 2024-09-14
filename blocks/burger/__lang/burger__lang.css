@@ -1,0 +1,22 @@
+
+.burger__lang {
+  cursor: pointer;
+  position: relative;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.burger__lang:after {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background-color: black;
+  content: "";
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.burger__lang:hover:after {
+  opacity: 1;
+}

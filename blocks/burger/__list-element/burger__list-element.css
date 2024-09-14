@@ -1,2 +1,10 @@
+.burger__list-element {
+  cursor: pointer;
+  transition: opacity 0.3s;
+}
 
 
+.burger__list-element:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}

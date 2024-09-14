@@ -1,0 +1,8 @@
+.burger__lang_active {
+  color: #7E7E82;
+  cursor: default;
+}
+
+.burger__lang_active:after {
+  display: none;
+}

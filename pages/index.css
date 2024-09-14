@@ -13,3 +13,9 @@
 @import url('../blocks/burger/__list-element/burger__list-element.css');
 @import url('../blocks/burger/__list-element/_active/burger__list-element_active.css');
 @import url('../blocks/burger/__footer/burger__footer.css');
+@import url('../blocks/burger/__footer-icons/burger__footer-icons.css');
+@import url('../blocks/burger/__lang-list/burger__lang-list.css');
+@import url('../blocks/burger/__lang/burger__lang.css');
+@import url('../blocks/burger/__mail/burger__mail.css');
+@import url('../blocks/burger/__phone/burger__phone.css');
+@import url('../blocks/burger/__lang/_active/burger__lang_active.css');

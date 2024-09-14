@@ -4,6 +4,11 @@
   margin: auto 0 auto -24px;
 }
 
+.burger__list-element, .burger__list-element_active:hover {
+  opacity: 1;
+  cursor: default;
+}
+
 .burger__list-element_active::before {
   content: '';
   height: 32px;

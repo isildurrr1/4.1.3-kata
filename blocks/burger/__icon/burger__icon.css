@@ -1,3 +1,8 @@
-.menu__icon {
+.burger__icon {
+  cursor: pointer;
+  transition: transform 0.5s ;
+}
 
+.burger__icon:hover {
+  transform: scale(1.1); 
 }
